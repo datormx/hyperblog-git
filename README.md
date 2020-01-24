@@ -7,7 +7,7 @@ Un blog increíble para el [Curso de Git y GitHub](https://platzi.com/cursos/git
 - Todos los comandos de Git necesarios
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas
--  Las personalidades múltiples de de Freddy
-Trucos muy locos del profesr
+- Las personalidades múltiples de de Freddy
+- Trucos muy locos del profesr
 
 Y como amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver **[Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "curso de Git y GitHub")**
