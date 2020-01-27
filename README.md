@@ -8,6 +8,7 @@ Un blog increíble para el [Curso de Git y GitHub](https://platzi.com/cursos/git
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas
 - Las personalidades múltiples de de Freddy
-- Trucos muy locos del profesr
+- Trucos muy locos del profesor
+- Creado por el increíble Platzi Team
 
 Y como amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver **[Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "curso de Git y GitHub")**
